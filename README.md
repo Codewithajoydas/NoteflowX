@@ -24,5 +24,5 @@
 
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/notebook-app.git
+git clone [https://github.com/your-username/notebook-app.git](https://github.com/Codewithajoydas/NoteflowX.git)
 cd notebook-app
