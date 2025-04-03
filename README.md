@@ -1,4 +1,4 @@
-#  NoteflowX
+# NoteflowX
 
 🚀 An AI-powered, feature-rich **Notebook & Diary App** for seamless note-taking, voice-to-text, smart reminders, and secure storage.
 
